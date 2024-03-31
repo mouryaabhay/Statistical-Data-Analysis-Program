@@ -1,0 +1,19 @@
+Linear Correlation and Regression Analysis Result
+  Number of xi observations(N): 10
+	Mean(x̄): 26.1000
+	Mean(ȳ): 20.7000
+	Variance(σₓ²): 187.2900
+	Variance(σᵧ²): 214.6100
+	Standard Deviation(σₓ): 13.6854
+	Standard Deviation(σᵧ): 14.6496
+	Covariance (cov(x, y)): 0.4984
+  The regression equation of line Y on X
+	byx: 0.5336
+	a = ȳ - byxx̄: 6.7741
+	Y = a + byxX: 6.7741 + 0.5336(X)
+  The regression equation of line X on Y
+	bxy: 0.4656
+	a = x̄ - bxyȳ: 16.4613
+	X = a + bxyY: 16.4613 + 0.4656(Y)
+  Coefficient of correlation(r): 0.4984
+  Explanatory Power of the models(r²): 0.2484

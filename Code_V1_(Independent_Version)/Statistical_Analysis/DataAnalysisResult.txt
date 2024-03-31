@@ -1,0 +1,49 @@
+Statistical Analysis Result
+	Number of observations(n): 20
+  Measure of Central Tendency
+	Mean: 102.7000
+	Median: 100.5000
+	Mode(s):
+	  97.0000
+	  107.0000
+  Partition Values
+	Quartile 1: 95.2500
+	Quartile 2: 100.5000
+	Quartile 3: 116.7500
+  Absolute Measure of Dispersion
+	Quartile Deviation: 10.7500
+	Range: 54.0000
+	Variance(σₓ²): 228.4100
+	Standard Deviation(σₓ): 15.1132
+  Relative Measure of Dispersion
+	Coefficient of Quartile Deviation: 0.1014
+	Coefficient of Range: 0.2647
+	Coefficient of Variation: 14.7159
+  Raw Moments
+	μ₁': 102.7000
+	μ₂': 10775.7000
+	μ₃': 1153907.5000
+	μ₄': 125956864.5000
+  Central Moments
+	μ₁: 0.0000 unit
+	μ₂: 228.4100 unit
+	μ₃: 327.6960 unit
+	μ₄: 122281.5857 unit
+  Measure of Skewness and Kurtosis
+	Skewness
+		Karl Pearson Coefficient of Skewness: 0.4367
+			Here, Skp > 0.
+			Therefore, The given frequency distribution is positively skewed.
+		Bowley's Coefficient of Skewness: 0.5116
+			Here, Skb > 0.
+			Therefore, The given frequency distribution is positively skewed.
+	Coefficient of Skewness based upon moments
+		β₁: 0.0090
+		𝛄₁: 0.0949
+			Here, 𝛄₁ > 0.
+			Therefore, The distribution is positively skewed.
+	Coefficient of Kurtosis
+		β₂: 2.3439
+		𝛄₂: -0.6561
+			Here, 𝛄₁ < 0.
+			Therefore, The distribution is Platykurtic.
