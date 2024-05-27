@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "F:\Git Files\Statistical_Data_Analysis_Program\HeaderFiles\statisticalanalysis.h"
+#include "..\HeaderFiles\statisticalanalysis.h"
 
 // Read the data from a file and calculate statistical measures
 int main(int argc, char *argv[]) {
